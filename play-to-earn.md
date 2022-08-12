@@ -1,6 +1,6 @@
 # Play To Earn
 
-## **Play To Earn**‌
+## **How to Earn**‌
 
 * Competing in PVP battles to win leaderboard prizes
 * Join Daily Event(Ex: Tournament, Clan Border War, King of Arena, Treasure Hunt and more) to win prizes&#x20;

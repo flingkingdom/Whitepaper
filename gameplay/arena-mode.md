@@ -12,7 +12,7 @@ The Player can play as many game they want until the event is over.
 
 ## King of Arena
 
-Clan Arena is will be open for 1 or 2  hours everyday  allowing fling fighter can create a room and search for royal rumble game  in turn-based battle system. Every Game Consist 6 player all out war each other for NFT reward. The 1 Survivor winner   get  special chest rewards at the end of a match. &#x20;
+King Arena is will be open for 1 or 2  hours everyday  allowing fling fighter can create a room and search for royal rumble game  in turn-based battle system. Every Game Consist 6 player all out war each other for reward. The 1 Survivor winner   get  special chest rewards at the end of a match. &#x20;
 
 The Player can play as many game they want until the event is over.
 
